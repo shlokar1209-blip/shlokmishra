@@ -29,35 +29,6 @@ Welcome to my GitHub profile! I'm an MCA student interested in software developm
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- Replace these placeholders with your real repositories and project details. -->
-
-### 1. [Project Name](YOUR_PROJECT_REPOSITORY_URL)
-
-**Description:** [Briefly explain the problem your project solves.]
-
-- **Technologies:** [Add the technologies actually used]
-- **Key features:** [Add two or three implemented features]
-- **Repository:** [Link to your project]
-
-### 2. [Project Name](YOUR_PROJECT_REPOSITORY_URL)
-
-**Description:** [Explain what the application does and who it helps.]
-
-- **Technologies:** [Add the technologies actually used]
-- **Key features:** [Add important implemented features]
-- **Repository:** [Link to your project]
-
-### 3. [Project Name](YOUR_PROJECT_REPOSITORY_URL)
-
-**Description:** [Add a short description of another project, coursework, or personal experiment.]
-
-- **Technologies:** [Add the technologies actually used]
-- **Key features:** [Add the main functionality]
-- **Repository:** [Link to your project]
-
----
 
 ## 📊 GitHub Statistics
 
@@ -96,10 +67,8 @@ Welcome to my GitHub profile! I'm an MCA student interested in software developm
 
 <p align="left">
   <!-- Replace the placeholder with your real LinkedIn profile URL. -->
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+ 
+  <a href="https://github.com/shlokar1209-blip">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
